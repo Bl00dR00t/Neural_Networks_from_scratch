@@ -1,4 +1,5 @@
 Neural Networks from Scratch 🧠
+
 This repository is dedicated to building neural networks from the ground up—no TensorFlow, no PyTorch, just pure Python (and maybe NumPy). The goal is to deeply understand how neural networks function under the hood by implementing everything manually.
 
 🔥 Features
